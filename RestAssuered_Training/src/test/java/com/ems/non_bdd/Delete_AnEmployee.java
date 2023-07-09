@@ -17,7 +17,7 @@ public class Delete_AnEmployee {
 				
 			RequestSpecification requestSpecification =	RestAssured.given();
 			
-			Response response = requestSpecification.request(Method.DELETE,"employees/6");
+			Response response = requestSpecification.request(Method.DELETE,"employees/32");
 			
 			System.out.println(response.asPrettyString());
 			

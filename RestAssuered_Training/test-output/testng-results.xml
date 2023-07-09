@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-01T20:31:33 IST" name="Default suite" finished-at="2023-06-01T20:31:34 IST" duration-ms="1531">
+  <suite started-at="2023-07-09T13:17:11 IST" name="Default suite" finished-at="2023-07-09T13:17:13 IST" duration-ms="1330">
     <groups>
     </groups>
-    <test started-at="2023-06-01T20:31:33 IST" name="Default test" finished-at="2023-06-01T20:31:34 IST" duration-ms="1531">
-      <class name="com.ems.non_bdd.Get_SingleEmployee">
-        <test-method signature="Get_singleEMp()[pri:0, instance:com.ems.non_bdd.Get_SingleEmployee@11bd0f3b]" started-at="2023-06-01T20:31:33 IST" name="Get_singleEMp" finished-at="2023-06-01T20:31:34 IST" duration-ms="1488" status="PASS">
+    <test started-at="2023-07-09T13:17:11 IST" name="Default test" finished-at="2023-07-09T13:17:13 IST" duration-ms="1330">
+      <class name="com.ems.bdd_Style.createEmp_DatafromJSONFile">
+        <test-method signature="createEmp()[pri:0, instance:com.ems.bdd_Style.createEmp_DatafromJSONFile@11bd0f3b]" started-at="2023-07-09T13:17:11 IST" name="createEmp" finished-at="2023-07-09T13:17:13 IST" duration-ms="1294" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Get_singleEMp -->
-      </class> <!-- com.ems.non_bdd.Get_SingleEmployee -->
+        </test-method> <!-- createEmp -->
+      </class> <!-- com.ems.bdd_Style.createEmp_DatafromJSONFile -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
