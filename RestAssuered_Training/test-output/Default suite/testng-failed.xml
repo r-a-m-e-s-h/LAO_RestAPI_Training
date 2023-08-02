@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ems.bdd_Style.using_JacksonDataBind_Serialization">
+      <class name="Serialization.using_JacksonDataBind_Serialization">
         <methods>
           <include name="jackson_Test"/>
         </methods>
-      </class> <!-- com.ems.bdd_Style.using_JacksonDataBind_Serialization -->
+      </class> <!-- Serialization.using_JacksonDataBind_Serialization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
