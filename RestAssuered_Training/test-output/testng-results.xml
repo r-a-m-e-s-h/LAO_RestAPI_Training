@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-03T00:05:20 IST" name="Default suite" finished-at="2023-08-03T00:05:24 IST" duration-ms="4479">
+  <suite started-at="2023-11-16T14:34:52 IST" name="Default suite" finished-at="2023-11-16T14:34:56 IST" duration-ms="3991">
     <groups>
     </groups>
-    <test started-at="2023-08-03T00:05:20 IST" name="Default test" finished-at="2023-08-03T00:05:24 IST" duration-ms="4479">
+    <test started-at="2023-11-16T14:34:52 IST" name="Default test" finished-at="2023-11-16T14:34:56 IST" duration-ms="3991">
       <class name="Serialization.using_JacksonDataBind_Serialization">
-        <test-method signature="jackson_Test()[pri:0, instance:Serialization.using_JacksonDataBind_Serialization@12aba8be]" started-at="2023-08-03T00:05:20 IST" name="jackson_Test" finished-at="2023-08-03T00:05:24 IST" duration-ms="4384" status="FAIL">
+        <test-method signature="jackson_Test()[pri:0, instance:Serialization.using_JacksonDataBind_Serialization@12aba8be]" started-at="2023-11-16T14:34:52 IST" name="jackson_Test" finished-at="2023-11-16T14:34:56 IST" duration-ms="3897" status="FAIL">
           <exception class="javax.net.ssl.SSLHandshakeException">
             <message>
               <![CDATA[Received fatal alert: handshake_failure]]>

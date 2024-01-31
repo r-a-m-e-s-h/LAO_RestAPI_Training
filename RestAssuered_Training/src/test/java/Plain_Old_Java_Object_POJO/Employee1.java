@@ -3,10 +3,12 @@ package Plain_Old_Java_Object_POJO;
 
 import java.util.Arrays;
 
+import org.testng.annotations.Test;
+
 
 public class Employee1 {
 	
-	
+	@Test
 	public static void main(String[] args)
 	{
 		Employee employee1 = new  Employee();
